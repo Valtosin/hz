@@ -1,7 +1,7 @@
 <div class="roles-table">
     <div class="title">
       <img src="/role/ss14 mini logo.png" alt="Профессии экипажа">
-      <a href="https://js.ss14.su/roles"><strong>Профессии экипажа</strong></a>
+      <a href="https://wiki.ss14.su/roles"><strong>Профессии экипажа</strong></a>
     </div>
     <div class="wrapper">
       <div class="dep-wrapper" style="background:rgb(25, 100, 165, 0.2);">
